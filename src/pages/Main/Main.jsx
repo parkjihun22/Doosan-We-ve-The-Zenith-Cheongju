@@ -595,7 +595,7 @@ const Main = () => {
             </div>
             <div className={styles.mainImageTitleBox1}>
               <div className={styles.mainImageText1}>
-                두산위브 센트럴파크 강화
+              두산위브 더제니스 청주 센트럴파크
               </div>
 
               </div>
